@@ -53,7 +53,7 @@ Estou sempre aberto a novos desafios, projetos de código aberto (open-source) e
 
 Seja para um feedback, uma proposta de projeto ou apenas para trocar uma ideia sobre tecnologia, sinta-se à vontade para se conectar comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-5a09a533b)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
