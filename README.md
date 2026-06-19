@@ -10,7 +10,7 @@ Atualmente, foco meus esforços em criar interfaces modernas no ecossistema de F
 
 *   **Foco Atual:** Desenvolvimento Fullstack, com forte domínio em tecnologias de Front-end e evolução contínua no ecossistema de Back-end.
 *   **Como eu trabalho:** Acredito que um código limpo ganha ainda mais valor quando alinhado a uma boa **comunicação** e **trabalho em equipe**. Sou movido pela **proatividade**, sempre buscando antecipar problemas e propor soluções eficazes nos projetos em que me envolvo.
-*   **Objetivo:** Contribuir em projetos reais, colaborar com equipes dinâmicas e conquistar minha primeira oportunidade de mercado como desenvolvedor.
+*   **Objetivo:** Contribuir em projetos reais, colaborar com equipes dinâmicas e conquistar oportunidades de mercado como desenvolvedor.
 
 ---
 
@@ -40,28 +40,8 @@ Expandindo horizontes e explorando novas linguagens ocasionalmente:
 
 ---
 
-## 🤝 Desenvolvimento Técnico
+## 🤝 Habilidades Comportamentais
 
-Estou sempre aberto a novos desafios, projetos de código aberto (open-source) e networking. Possuo perfil comunicativo, curioso e disposto para aprendercada vez mais!
-
-*   **⚡ Ideias de colaboração:** Projetos em React, integrações com Node.js ou soluções criativas de Front-end.
-*   **💬 Pergunte-me sobre:** Desenvolvimento web, desafios de CSS e o que estou aprendendo de novo hoje.
-
----
-
-📊 **Dica de ouro:** Adicione abaixo seus badges de estatísticas do GitHub (como o *GitHub Readme Stats*) se desejar dar um toque ainda mais personalizado ao seu perfil!
-
-<!--
-**dev-jpaulo/dev-jpaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Comunicação:** possuo forte perfil comunicativo, desenvolvido a partir de constante prática 
+* **Trabalho em Equipe:** Tenho experiência com trabalho equipe, trabalhando sempre em um campo harmônico e repeitoso para bom desenvolvimento de todos os membros
+* **Organização:** Aplico minhas tarefas, obrigações e anotações em materias digitais seguros, objetivando melhor armazenamento do que eu possa estar desenvolvendop no momento.
