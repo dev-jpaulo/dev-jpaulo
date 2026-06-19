@@ -40,21 +40,12 @@ Expandindo horizontes e explorando novas linguagens ocasionalmente:
 
 ---
 
-## 🤝 Vamos colaborar?
+## 🤝 Desenvolvimento Técnico
 
-Estou sempre aberto a novos desafios, projetos de código aberto (open-source) e networking. Se você está procurando um desenvolvedor proativo, comunicativo e pronto para somar com o time, vamos conversar!
+Estou sempre aberto a novos desafios, projetos de código aberto (open-source) e networking. Possuo perfil comunicativo, curioso e disposto para aprendercada vez mais!
 
 *   **⚡ Ideias de colaboração:** Projetos em React, integrações com Node.js ou soluções criativas de Front-end.
 *   **💬 Pergunte-me sobre:** Desenvolvimento web, desafios de CSS e o que estou aprendendo de novo hoje.
-
----
-
-## 📬 Entre em Contato
-
-Seja para um feedback, uma proposta de projeto ou apenas para trocar uma ideia sobre tecnologia, sinta-se à vontade para se conectar comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-paulo-5a09a533b)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 
